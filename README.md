@@ -1,4 +1,4 @@
-# Festi'JS — [nom de votre festival]
+# Festi'JS — [Super héros]
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
@@ -6,19 +6,19 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
-|            |                 |        |
+|Lucas AUDIVERT| A-Lucas-31    |  DWDI  |
+|Joan Jerome NGANGA MBAMBU|    |  DWDI  |
 
 ### Répartition du travail
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
-- **[Nom 2] →**
+- **[Nom 1] →AUDIVERT Lucas**
+- **[Nom 2] →NGANGA MBAMBU Joan Jerome**
 
 ## Le festival
 
-- **Thème :**
+- **Thème :Les super héros**
 - **En une phrase :**
 - **Blind test envisagé :** audio / vidéo — sur quoi ?
 
