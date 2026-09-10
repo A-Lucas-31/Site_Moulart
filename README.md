@@ -7,7 +7,7 @@
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
 |Lucas AUDIVERT| A-Lucas-31    |  DWDI  |
-|Joan Jerome NGANGA MBAMBU| joan_w0 |  DWDI  |
+|Joan Jerome NGANGA MBAMBU| joan-w0 |  DWDI  |
 
 ### Répartition du travail
 
